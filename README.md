@@ -57,7 +57,7 @@
 <br/>  
 
 
-## Connect with me  
+
   
 
 <br/>  
@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
