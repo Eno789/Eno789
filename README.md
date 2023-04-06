@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working on [Enov/YATA](https://github.com/Eno7vation/CI-CD-Pipeine-YATA)  
   
+- ⚡ I was responsible for developing the backend and server with python, golang at Enov YATA.
 
-- 🌱 I’m currently learning React with TS  
+- 🌱 I’m currently learning React with TS  and Golang
   
 
 <br/>  
@@ -43,6 +44,7 @@
 
 ### DevOps  
 <div align="center">  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
