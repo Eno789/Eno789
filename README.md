@@ -5,7 +5,12 @@
   
 - ⚡ I was responsible for developing the backend and server with python, golang at Enov YATA.
 
-- 🌱 I’m currently learning React with TS  and Golang
+- 🌱 I’m currently learning React with TS and Golang
+
+- 👨‍🏫 I'm giving a lecture at inflearn
+
+- 👀 My lecture is here(fullStack) [here](https://www.inflearn.com/course/temp_330857)
+- If you are a student, I will give you a free lecture code
   
 
 <br/>  
