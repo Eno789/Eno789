@@ -1,19 +1,11 @@
-# <div align="center">Hello! I'm Eno789</div>  
-  
 
-- 🔭 I’m currently working on [Enov/YATA](https://github.com/Eno7vation/CI-CD-Pipeine-YATA)  
+# <div align="center">Hello! I'm Eno789</div>  
   
 - ⚡ I was responsible for developing the backend and server with python, golang at Enov YATA.
 
 - 🌱 I’m currently learning React with TS and Golang
 
-- 👨‍🏫 I'm giving a lecture at inflearn
-
-- 👀 My lecture is here(fullStack) [here](https://www.inflearn.com/course/temp_330857)
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
