@@ -1,7 +1,7 @@
 
 # <div align="center">Hello! I'm Eno789</div>  
   
-- ⚡ I was responsible for developing the backend and server with python, golang at Enov YATA.
+- ⚡ I was responsible for developing the backend and server with python, golang
 
 - 🌱 I’m currently learning React with TS and Golang
 
